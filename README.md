@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Bollywood-Game?style=flat-square" alt="Bollywood-Game"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Bollywood-Game/blob/main/image/important.gif" ></p>
+<p align="center"><img src="https://github.com/Ashish2030/Scribbler-Project/blob/master/video/video.gif" ></p>
 <p align="center">
     <a href="https://github.com/Ashish2030/Bollywood-Game" target="blank">View Demo</a>
     ·
